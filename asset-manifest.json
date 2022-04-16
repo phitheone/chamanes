@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/chamanes/static/css/main.073c9b0a.css",
-    "main.js": "/chamanes/static/js/main.703a4a9e.js",
-    "static/js/787.06872e53.chunk.js": "/chamanes/static/js/787.06872e53.chunk.js",
-    "static/media/logo.svg": "/chamanes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/chamanes/static/css/main.a29b54dc.css",
+    "main.js": "/chamanes/static/js/main.d1b6f742.js",
+    "static/media/Summit-Title-recortado.png": "/chamanes/static/media/Summit-Title-recortado.ead452b6228a1b238a7c.png",
+    "static/media/hero2.png": "/chamanes/static/media/hero2.3de30f76122dfa618a3f.png",
+    "static/media/hero3.png": "/chamanes/static/media/hero3.27c08b6daabe46573564.png",
+    "static/media/hero1.png": "/chamanes/static/media/hero1.5bd44ab015483c5ecdc5.png",
+    "static/media/hero4.png": "/chamanes/static/media/hero4.631acc0407754a13942e.png",
+    "static/media/discord.svg": "/chamanes/static/media/discord.92fae2d3e62d5c1ea29a8216237a6c21.svg",
+    "static/media/twitter.svg": "/chamanes/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "index.html": "/chamanes/index.html",
-    "main.073c9b0a.css.map": "/chamanes/static/css/main.073c9b0a.css.map",
-    "main.703a4a9e.js.map": "/chamanes/static/js/main.703a4a9e.js.map",
-    "787.06872e53.chunk.js.map": "/chamanes/static/js/787.06872e53.chunk.js.map"
+    "main.a29b54dc.css.map": "/chamanes/static/css/main.a29b54dc.css.map",
+    "main.d1b6f742.js.map": "/chamanes/static/js/main.d1b6f742.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.703a4a9e.js"
+    "static/css/main.a29b54dc.css",
+    "static/js/main.d1b6f742.js"
   ]
 }
