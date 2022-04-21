@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/chamanes/static/css/main.f51bc17f.css",
-    "main.js": "/chamanes/static/js/main.ce7a52de.js",
-    "static/media/Summit-Title-recortado.png": "/chamanes/static/media/Summit-Title-recortado.ead452b6228a1b238a7c.png",
+    "main.css": "/chamanes/static/css/main.95c7ad67.css",
+    "main.js": "/chamanes/static/js/main.647c0698.js",
+    "static/media/team3.jpg": "/chamanes/static/media/team3.6dc59155d693f8cd6ed0.jpg",
+    "static/media/team2.jpg": "/chamanes/static/media/team2.0a44f5dda51df5a48a56.jpg",
+    "static/media/team1.jpg": "/chamanes/static/media/team1.dc4db768a69742356328.jpg",
+    "static/media/team4.jpg": "/chamanes/static/media/team4.f36f4fe36b20b4baae16.jpg",
+    "static/media/team5.jpg": "/chamanes/static/media/team5.91d15a85a7486acd3cd4.jpg",
     "static/media/coin.png": "/chamanes/static/media/coin.0f26ffea415f54290e43.png",
     "static/media/hero2.png": "/chamanes/static/media/hero2.3de30f76122dfa618a3f.png",
     "static/media/hero3.png": "/chamanes/static/media/hero3.27c08b6daabe46573564.png",
@@ -18,14 +22,16 @@
     "static/media/transition2.svg": "/chamanes/static/media/transition2.612f22771db0ea818784.svg",
     "static/media/transition1.svg": "/chamanes/static/media/transition1.2c9272a6cccfcdcb080c.svg",
     "static/media/transition4.svg": "/chamanes/static/media/transition4.d787eddff4a82357108d.svg",
+    "static/media/transition5.svg": "/chamanes/static/media/transition5.9788409d7e1e15617cc8.svg",
+    "static/media/transitionFinal.svg": "/chamanes/static/media/transitionFinal.0b233eceff87742d8a51.svg",
     "static/media/discord.svg": "/chamanes/static/media/discord.92fae2d3e62d5c1ea29a8216237a6c21.svg",
     "static/media/twitter.svg": "/chamanes/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "index.html": "/chamanes/index.html",
-    "main.f51bc17f.css.map": "/chamanes/static/css/main.f51bc17f.css.map",
-    "main.ce7a52de.js.map": "/chamanes/static/js/main.ce7a52de.js.map"
+    "main.95c7ad67.css.map": "/chamanes/static/css/main.95c7ad67.css.map",
+    "main.647c0698.js.map": "/chamanes/static/js/main.647c0698.js.map"
   },
   "entrypoints": [
-    "static/css/main.f51bc17f.css",
-    "static/js/main.ce7a52de.js"
+    "static/css/main.95c7ad67.css",
+    "static/js/main.647c0698.js"
   ]
 }
